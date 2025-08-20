@@ -7,5 +7,11 @@ public class ListDemo {
         lista.add("Elemento 1");
         lista.add("Elemento 2");
         System.out.println("Lista: " + lista);
+
+        String removido = lista.removeFirst();
+        System.out.println("Se eliminó (por índice): " + removido);
+        System.out.println("Lista tras remover por índice: " + lista);
+
     }
 }
+
