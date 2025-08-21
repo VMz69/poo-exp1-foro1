@@ -9,7 +9,7 @@ public class ListDemo {
         System.out.println("Lista: " + lista);
 
 
-        String removido = lista.removeFirst();
+        String removido = lista.remove(0);
         System.out.println("Se eliminó (por índice 0): " + removido);
         System.out.println("Lista tras remover por índice: " + lista);
     }
