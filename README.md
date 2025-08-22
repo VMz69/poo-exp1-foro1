@@ -41,15 +41,15 @@ Seleccionar **uno** de los tres tipos de interfaces (`Collection`, `List` o `Map
 
 ---
 
-## 🧩 Propuesta de Reparto de Tareas
+## 🧩 Reparto de Tareas
 
-| **Integrante** | **Tarea** | **Detalle** |
-| --- | --- | --- |
-| **1** | **Collection** | Explicar qué es `Collection`, cómo se declara, cómo asignar valores y cómo eliminarlos, con código funcional breve. |
-| **2** | **List** | Explicar qué es `List`, cómo se declara, cómo asignar valores y cómo eliminarlos, con ejemplo en código funcional breve. |
-| **3** | **Map** | Explicar qué es `Map`, cómo se declara, cómo asignar valores y cómo eliminarlos, con ejemplo en código funcional breve. |
-| **4** | **Programa (Ingreso + Mostrar)** | Implementar en Java el ingreso de alumnos y la función para mostrar todos los alumnos usando la estructura elegida. |
-| **5** | **Programa (Búsqueda + Eliminación)** | Implementar la búsqueda y la eliminación de alumnos con retroalimentación (mensajes) en el mismo programa. |
+| **Integrante**         | **Tarea** | **Detalle** |
+|------------------------| --- | --- |
+| **1. Milton Ayala**    | **Collection** | Explicar qué es `Collection`, cómo se declara, cómo asignar valores y cómo eliminarlos, con código funcional breve. |
+| **2. Nelson Solano**   | **List** | Explicar qué es `List`, cómo se declara, cómo asignar valores y cómo eliminarlos, con ejemplo en código funcional breve. |
+| **3. Darwin Martinez** | **Map** | Explicar qué es `Map`, cómo se declara, cómo asignar valores y cómo eliminarlos, con ejemplo en código funcional breve. |
+| **4. Victor Velasco**  | **Programa (Ingreso + Mostrar)** | Implementar en Java el ingreso de alumnos y la función para mostrar todos los alumnos usando la estructura elegida. |
+| **5. Fernando Gomez**  | **Programa (Búsqueda + Eliminación)** | Implementar la búsqueda y la eliminación de alumnos con retroalimentación (mensajes) en el mismo programa. |
 
 ---
 
@@ -65,6 +65,8 @@ Todos los miembros del equipo deben subir un archivo **`.txt`** con:
 
 ## 📅 Fechas
 
+- Miercoles 13-08-25: Decisión Final para Interfaz a utilizar en el desarrollo del programa
+- Jueves 21-08-25: Grabación de defensa para Entrega de  Foro
 - **Entrega Final:** `23-08-25`
 
 ---
