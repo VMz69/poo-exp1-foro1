@@ -78,5 +78,22 @@ public class CollectionDemoSet {
         for (String fruta : frutas) {
             System.out.println(fruta);
         }
+
+        String removeMoreChoice = "1"; //
+
+        while (removeMoreChoice.equalsIgnoreCase("1")) {
+            System.out.println("Saque una fruta de la caja: ");
+            fruit = userInput.nextLine();
+            frutas.remove(fruit.toLowerCase());
+            System.out.println("Presione 1 para sacar mas frutas, cualquier caracter para terminar");
+            removeMoreChoice = userInput.nextLine();
+        }
+
+        // Como recorrer todas las frutas de la caja, y ver que los duplicados fueron vilmente ignorados:
+        System.out.println("Aqui van todas las frutas de nuestro catalogo, despues que eliminaste frutas:");
+        for (String fruta : frutas) {
+            System.out.println(fruta);
+        }
+
     }
 }
