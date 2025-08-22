@@ -11,7 +11,7 @@ public class MapDemo {
 
         System.out.println("Productos en tiendas:"+tiendaropa);
 
-        tiendaropa.put("tienda4", "juguetes");
+        tiendaropa.put("Tienda4", "juguetes");
 
         System.out.println("Productos en tiendas:"+tiendaropa);
 
